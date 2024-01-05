@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![](https://res.cloudinary.com/dwz6t9jry/image/upload/v1704476725/Screenshot_2024-01-05_130820_mg4unb.png)
 
 Welcome,
 
